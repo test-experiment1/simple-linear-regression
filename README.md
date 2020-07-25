@@ -1,3 +1,3 @@
 # simple-linear-regression
 
-###### Contist of simple linear regression in python
+### Contist of simple linear regression in python
